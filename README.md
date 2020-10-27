@@ -1,7 +1,7 @@
-# Hello-🌏 
+# Hello-world.exe 🌏 
 
 I am a freelance graphic designer who specializes in doing Vector Portraits.
-Based in Iloilo City, Philippines
+I'm based in Iloilo City, Philippines
 
 ![Weathering with you](https://media1.tenor.com/images/bcb760ae97dc97e7d6855fe2694e345f/tenor.gif)
 

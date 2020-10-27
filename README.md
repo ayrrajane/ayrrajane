@@ -10,8 +10,7 @@ Since 2016 I've been living and breathing different programming languages every 
 I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through design & code.
 
 ### 🔭 I’m currently working on 
-
-### 🌱 I’m currently learning 
+![adobe](https://wottonprinters.co.uk/wp-content/uploads/2017/06/adobe-logos.png)
 
 ### 📫 How to reach me:
 

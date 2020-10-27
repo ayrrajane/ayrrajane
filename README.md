@@ -2,9 +2,7 @@
 
 Hi. I'm Ayrra Jane, your digital artist companion.  
 I'm a freelance graphic designer who specializes in doing Vector Portraits.  
-Currently studying at West Visayas State University  
-Bachelor of Science in Information and Communications Technology  
-Majoring in Multimedia Technology . uwu
+I'm based from Iloilo city, Philippines.
 
 ![Weathering with you](https://media1.tenor.com/images/bcb760ae97dc97e7d6855fe2694e345f/tenor.gif)
 

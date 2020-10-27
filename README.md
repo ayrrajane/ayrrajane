@@ -1,5 +1,5 @@
 # Hello-world
-![Weathering with you](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fweathering-with-you&psig=AOvVaw28LRNhUUbLsIF1sPvsVobs&ust=1603872245257000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPiq-O-n1OwCFQAAAAAdAAAAABAb)
+![Weathering with you](https://media1.tenor.com/images/bcb760ae97dc97e7d6855fe2694e345f/tenor.gif)
 
 I am a freelance graphic designer who specializes in doing Vector Portraits. I´m based in Iloilo City, Philippines.
 

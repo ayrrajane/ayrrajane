@@ -1,8 +1,10 @@
 # Hello-world.exe 🌏 
 
 Hi. I'm Ayrra Jane, your digital artist companion.  
-I am a freelance graphic designer who specializes in doing Vector Portraits.  
-I'm based in Iloilo City, Philippines
+I'm a freelance graphic designer who specializes in doing Vector Portraits.  
+Currently studying at West Visayas State University  
+Bachelor of Science in Information and Communications Technology  
+Majoring in Multimedia Technology . uwu
 
 ![Weathering with you](https://media1.tenor.com/images/bcb760ae97dc97e7d6855fe2694e345f/tenor.gif)
 

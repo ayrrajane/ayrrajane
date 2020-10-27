@@ -1,5 +1,6 @@
 # Hello-world
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Weathering with you](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fweathering-with-you&psig=AOvVaw28LRNhUUbLsIF1sPvsVobs&ust=1603872245257000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPiq-O-n1OwCFQAAAAAdAAAAABAb)
+
 I am a freelance graphic designer who specializes in doing Vector Portraits. I´m based in Iloilo City, Philippines.
 
 Since 2016 I've been living and breathing different programming languages every morning and creating illustrations before sleeping. 

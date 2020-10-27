@@ -1,19 +1,21 @@
 # Hello-world 
 
-I am a freelance graphic designer who specializes in doing Vector Portraits. I´m based in Iloilo City, Philippines ✨
+I am a freelance graphic designer who specializes in doing Vector Portraits.
+Based in Iloilo City, Philippines ✨
 
 ![Weathering with you](https://media1.tenor.com/images/bcb760ae97dc97e7d6855fe2694e345f/tenor.gif)
 
+# ⚡ About me
 Since 2016 I've been living and breathing different programming languages every morning and creating illustrations before sleeping. 
 I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through design & code.
 
-🔭 I’m currently working on 
+# 🔭 I’m currently working on 
 
-🌱 I’m currently learning 
+# 🌱 I’m currently learning 
 
-📫 How to reach me:
+# 📫 How to reach me:
 
-⚡ Fun fact:
+
 
 
 <!--

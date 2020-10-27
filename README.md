@@ -1,4 +1,6 @@
-# Hello-world.exe 🌏 
+# Hello-world.exe 🌏   
+
+### create don't hate.
 
 Hi. I'm Ayrra Jane, your digital artist companion.  
 I'm a freelance graphic designer who specializes in doing Vector Portraits.  
@@ -20,7 +22,6 @@ Currently improving my knowledge in programming: Java, C++, C#, Phyton
 
 ![adobe](https://scontent.fceb2-1.fna.fbcdn.net/v/t1.15752-9/122725457_348828449682252_4328519468293774617_n.png?_nc_cat=109&ccb=2&_nc_sid=ae9488&_nc_eui2=AeGDem7Z0WIl3fg2-YE4SNkObumCbqIF_Wlu6YJuogX9aVdBsmUwvaQl6cpQjgO3I1e-ftPTq3IAr7e8LARM0_qd&_nc_ohc=3vBWIGLM644AX91hKvb&_nc_ht=scontent.fceb2-1.fna&oh=97367bfd756c40a8cf5281f7b73847f2&oe=5FBCDE30)
 
-### create don't hate.
 
 
 <!--

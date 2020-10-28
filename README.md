@@ -16,7 +16,7 @@ I've had the chance to immerse myself in many different works and projects,
 helping to make this world a little better through design & code.  
 
 ### What I'm focusing on
-Currently improving my knowledge in programming: Java, C++, C#, Phyton
+Currently improving my knowledge in programming: Java, C++, C#, Python
 
 ### What I do know
 

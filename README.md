@@ -19,7 +19,9 @@ helping to make this world a little better through design & code.
 Currently improving my knowledge in programming:  Python
 
 ### What I do know
-Graphic Design
+Graphic Design & Illustrations (Ps, Ai, Id)
+Basic Photography
+Video Editing (Pr)
 Java and C++ 
 
 

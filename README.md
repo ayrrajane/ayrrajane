@@ -16,10 +16,10 @@ I've had the chance to immerse myself in many different works and projects,
 helping to make this world a little better through design & code.  
 
 ### What I'm focusing on
-Currently improving my knowledge in programming:  Python
+Further improving my knowledge in programming:  Python
 
 ### What I do know
-Graphic Design & Illustrations (Ps, Ai, Id) || Basic Photography || Video Editing (Pr) || Java and C++ 
+Graphic Design & Illustrations (Ps, Ai, Id) .. Basic Photography .. Video Editing (Pr) || Java and C++ 
 
 
 

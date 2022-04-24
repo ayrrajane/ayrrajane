@@ -6,7 +6,7 @@ Hi. I'm Ayrra Jane, your digital artist companion.
 I'm a freelance graphic designer who specializes in doing Vector Portraits.  
 I'm based from Iloilo City, Philippines.
 
-![Weathering with you](https://media1.tenor.com/images/bcb760ae97dc97e7d6855fe2694e345f/tenor.gif)
+![Weathering with you](https://c.tenor.com/tHGomflMSuIAAAAM/cat-computer.gif)
 
 ### About me 🤏 
 Since 2016 I've been living and breathing different programming languages every morning   

@@ -18,16 +18,16 @@ I have gathered efficiency in various editing tools that are helpful to creating
 Among them mentioned are the worthy skills that I posses: 
 
 ### Technical Skills
-•Microsoft Office (Powerpoint, Word, Excel)
-•Adobe Creative Suite (Photoshop, Illustrator, InDesign, Premiere Pro)
-•Programming (Java, C++)
+Microsoft Office (Powerpoint, Word, Excel)
+Adobe Creative Suite (Photoshop, Illustrator, InDesign, Premiere Pro)
+Programming (Java, C++)
 
 
 ### Personal Skills
-•Excellent written and verbal communication skills.
-•Highly organized and efficient.
-•Ability to work independently or as a part of a team.
-•Proven leadership skills and ability to motivate.
+Excellent written and verbal communication skills.
+Highly organized and efficient.
+Ability to work independently or as a part of a team.
+Proven leadership skills and ability to motivate.
 
 
 

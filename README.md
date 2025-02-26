@@ -9,7 +9,7 @@ I'm based from Iloilo City, Philippines.
 ![Cat](https://c.tenor.com/tHGomflMSuIAAAAM/cat-computer.gif)
 
 ### About me 🤏 
-I am a fresh IT graduate of West Visayas State University, College of Information and Communications Technology. 
+I am an IT graduate of West Visayas State University, College of Information and Communications Technology. 
 I majored in Multimedia Technology with a background in Graphic Design, UX/UI Design, 2D Animation and Photo/Video Editing. 
 
 I have also been working as a freelance graphic designer with 4 to 5 years of experience, that's why I have learned 

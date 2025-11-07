@@ -1,34 +1,11 @@
 # Hello-world.exe 🌏   
 
-### create don't hate.
+Hi! I'm Ayrra 👋
+I started my journey in graphic design, where I learned to combine creativity with clean, thoughtful execution. Now, I’m exploring the world of software development and currently working as a Junior System Developer.
 
-Hi. I'm Ayrra Jane, your digital artist companion.  
-I'm a freelance graphic designer who specializes in doing Vector Portraits.  
-I'm based from Iloilo City, Philippines.
+I like building things that work well and look good.
+Always learning. Always experimenting. 🚀
 
-![Cat](https://c.tenor.com/tHGomflMSuIAAAAM/cat-computer.gif)
-
-### About me 🤏 
-I am an IT graduate of West Visayas State University, College of Information and Communications Technology. 
-I majored in Multimedia Technology with a background in Graphic Design, UX/UI Design, 2D Animation and Photo/Video Editing. 
-
-I have also been working as a freelance graphic designer with 4 to 5 years of experience, that's why I have learned 
-designing techniques to create a visual concept that certainly is the medium of communication with consumers and clients. 
-I have gathered efficiency in various editing tools that are helpful to creating a design. 
-
-Among them mentioned are the worthy skills that I posses: 
-
-### Technical Skills
-Microsoft Office (Powerpoint, Word, Excel) <br/>
-Adobe Creative Suite (Photoshop, Illustrator, InDesign, Premiere Pro) <br/>
-Programming (Java, C++) <br/>
-
-
-### Personal Skills
-Excellent written and verbal communication skills <br/>
-Highly organized and efficient <br/>
-Ability to work independently or as a part of a team <br/>
-Proven leadership skills and ability to motivate <br/>
 
 
 

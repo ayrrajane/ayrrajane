@@ -1,10 +1,7 @@
 # Hello-world.exe 🌏   
 
-Hi! I'm Ayrra 👋
-I started my journey in graphic design, where I learned to combine creativity with clean, thoughtful execution. Now, I’m exploring the world of software development and currently working as a Junior System Developer.
-
-I like building things that work well and look good.
-Always learning. Always experimenting. 🚀
+Hi, I’m Ayrra 👋 Started in graphic design, upgraded to Junior System Developer.
+I build things that work… eventually. Here to Git Good, one questionable commit at a time. 🛠️💀
 
 
 
